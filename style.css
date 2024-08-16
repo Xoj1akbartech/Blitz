@@ -809,3 +809,9 @@ header{
     background-color: #00000000;
     color: #fff;
 }
+
+@media(max-width:576px){
+    .header-text h1{
+        font-size: 32px;
+    }
+}
